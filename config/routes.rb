@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root to: "apipie/apipies#index"
   apipie
   resources :books
   resources :courses

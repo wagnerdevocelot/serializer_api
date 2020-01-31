@@ -17,7 +17,8 @@ Dois Models com relações, utilizando AMS para retornar Json em formatações e
 - Rails
 - Active Model Serializers
 - apipie
-- sqlite3
+- sqlite3 em desenvolvimento
+- PostgreeSQL em produção
 
 
 
